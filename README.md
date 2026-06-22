@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/amaanwaris/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/amaanwaris/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0068-text-justification](https://github.com/amaanwaris/leetcode-solutions/tree/master/0068-text-justification) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/amaanwaris/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## String
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/amaanwaris/leetcode-solutions/tree/master/0068-text-justification) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/amaanwaris/leetcode-solutions/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
