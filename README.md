@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/amaanwaris/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/amaanwaris/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Stack
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/amaanwaris/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/amaanwaris/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
