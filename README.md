@@ -61,9 +61,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amaanwaris/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amaanwaris/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amaanwaris/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amaanwaris/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
