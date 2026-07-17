@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/amaanwaris/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/amaanwaris/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/amaanwaris/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/amaanwaris/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amaanwaris/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/amaanwaris/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/amaanwaris/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/amaanwaris/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amaanwaris/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/amaanwaris/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amaanwaris/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Depth-First Search
