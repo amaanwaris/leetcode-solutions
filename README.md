@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amaanwaris/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/amaanwaris/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/amaanwaris/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [1260-shift-2d-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amaanwaris/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/amaanwaris/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/amaanwaris/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/amaanwaris/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [1260-shift-2d-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/amaanwaris/leetcode-solutions/tree/master/0068-text-justification) |
+| [1260-shift-2d-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amaanwaris/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
