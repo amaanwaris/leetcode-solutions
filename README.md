@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/amaanwaris/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amaanwaris/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/amaanwaris/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0057-insert-interval](https://github.com/amaanwaris/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/amaanwaris/leetcode-solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/amaanwaris/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/amaanwaris/leetcode-solutions/tree/master/0085-maximal-rectangle) |
