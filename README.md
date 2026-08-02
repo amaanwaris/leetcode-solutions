@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amaanwaris/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/amaanwaris/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/amaanwaris/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0877-stone-game](https://github.com/amaanwaris/leetcode-solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amaanwaris/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amaanwaris/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/amaanwaris/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/amaanwaris/leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0877-stone-game](https://github.com/amaanwaris/leetcode-solutions/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amaanwaris/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/amaanwaris/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Stack
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/amaanwaris/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0877-stone-game](https://github.com/amaanwaris/leetcode-solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amaanwaris/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amaanwaris/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amaanwaris/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amaanwaris/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amaanwaris/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/amaanwaris/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
