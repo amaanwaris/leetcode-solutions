@@ -107,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amaanwaris/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/amaanwaris/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amaanwaris/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amaanwaris/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/amaanwaris/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amaanwaris/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/amaanwaris/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
 |  |
 | ------- |
