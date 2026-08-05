@@ -1,32 +1,25 @@
 class Solution {
 public:
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
-        vector<vector<int>> graph(n);
-
+        vector<vector<int>> adj(n);
         for (auto &e : invocations) {
-            graph[e[0]].push_back(e[1]);
+            adj[e[0]].push_back(e[1]);
         }
-
-        vector<int> suspicious(n, 0);
 
         // Find all suspicious methods (reachable from k)
-        queue<int> q;
-        q.push(k);
-        suspicious[k] = 1;
+        vector<int> suspicious(n, 0);
 
-        while (!q.empty()) {
-            int u = q.front();
-            q.pop();
-
-            for (int v : graph[u]) {
-                if (!suspicious[v]) {
-                    suspicious[v] = 1;
-                    q.push(v);
-                }
+        function<void(int)> dfs = [&](int u) {
+            suspicious[u] = 1;
+            for (int v : adj[u]) {
+                if (!suspicious[v])
+                    dfs(v);
             }
-        }
+        };
 
-        // Check if any non-suspicious method invokes a suspicious one
+        dfs(k);
+
+        // Check if any non-suspicious method invokes a suspicious method
         for (auto &e : invocations) {
             int u = e[0], v = e[1];
             if (!suspicious[u] && suspicious[v]) {
@@ -37,7 +30,7 @@ public:
             }
         }
 
-        // Remove all suspicious methods
+        // Remove suspicious methods
         vector<int> ans;
         for (int i = 0; i < n; i++) {
             if (!suspicious[i])
